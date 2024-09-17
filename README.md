@@ -5,21 +5,6 @@
 
 </div>
 
-<br />
-<div align="center">
-    <a href="https://github.com/Mtheuxa/God-Of-War-Ragnarok">
-    <img src="img/logo.png" alt="Logo" />
-  </a>
-
-  <p align="center">
-   Landing page do jogo God of War Ragnarok
-    <br />
-    <a href="https://github.com/Mtheuxa/God-Of-War-Ragnarok"><strong>Explore o documento »</strong></a>
-    <br />
-    <br />
-    <img src="https://img.shields.io/github/followers/Mtheuxa?style=social" />
-  </p>
-</div>
 
 ## 💻 Sobre o projeto
 
