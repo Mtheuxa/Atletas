@@ -38,6 +38,7 @@ As seguintes ferramentas foram utilizadas no desenvolimento do projeto.
 * [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 
+
 ## 📝 Licença
 
 Esse projeto está sob a licença [GNU][license-url]. Veja o arquivo LICENSE para mais detalhes.
