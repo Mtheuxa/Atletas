@@ -42,6 +42,7 @@ function pesquisar() {
         resultados = "<p>Nada foi encontrado. Você precisa digitar o nome de um atleta</p>"
     }
 
+    
     // Atribui os resultados gerados à seção HTML
     section.innerHTML = resultados;
 }
