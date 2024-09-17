@@ -1,11 +1,3 @@
-<div align="center">
-
-[![GNU License][license-shield]][license-url]
-[![Version][version-shield]][version-shield]
-
-</div>
-
-
 ## 💻 Sobre o projeto
 
 Landing page do jogo God of War Ragnarok feita durante um evento promovido pela [Alura][Alura], cujo objetivo era desenvolver um projeto prático utilizando os três pilares do Front-end.
